@@ -15,8 +15,7 @@ public class StudentService {
                         1L,
                         "Richar",
                         "Daymaku90@gmail.com",
-                        LocalDate.of(1990, Month.APRIL, 4),
-                        32
+                        LocalDate.of(1990, Month.APRIL, 4)
                 )
         );
     }
